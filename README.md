@@ -27,4 +27,3 @@ When the page is opened, it appears like this:
 - SongKick API
 - MusicBrainz API
 - Imsea API
-![image](https://user-images.githubusercontent.com/64149102/175185614-dfe7480e-2a63-43ad-868e-79bd05756a84.png)
