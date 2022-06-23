@@ -17,3 +17,14 @@ The link to the deployed URL is:  https://vinyldude8896.github.io/Artist_Music_T
 
 When the page is opened, it appears like this:
 ![alt_tag](https://github.com/Vinyldude8896/Artist_Music_Tour/blob/develop/assets/images/pageimage.png)
+
+## Technologies Used:
+- HTML
+- CSS
+- js
+- YouTube API
+- Tailwind API
+- SongKick API
+- MusicBrainz API
+- Imsea API
+![image](https://user-images.githubusercontent.com/64149102/175185614-dfe7480e-2a63-43ad-868e-79bd05756a84.png)
